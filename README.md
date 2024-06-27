@@ -1,4 +1,4 @@
-# Real-Time Web Analytics with Segment
+# Real-Time Web tracking with Segment and Mixpanel
 
 ## Data Streaming
 I have experience working with data streaming, a method of sending and receiving data continuously and in real-time. This method is commonly used in online music and video streaming, social networks, online gaming, real-time monitoring applications, and more.
