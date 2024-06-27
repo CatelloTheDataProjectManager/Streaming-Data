@@ -1,4 +1,4 @@
-# Real-Time Web Analytics with Segment and Amplitude or Google Analytics
+# Real-Time Web Analytics with Segment
 
 ## Data Streaming
 I have experience working with data streaming, a method of sending and receiving data continuously and in real-time. This method is commonly used in online music and video streaming, social networks, online gaming, real-time monitoring applications, and more.
@@ -15,6 +15,14 @@ I am familiar with Segment, a data collection and management platform. Segment a
 
 ## Customer Data Platform (CDP)
 I have worked with Customer Data Platforms (CDPs), software systems that collect, unify, and organize customer data from various sources to create a single, comprehensive view of each customer. CDPs help businesses better understand their customers and provide personalized experiences by leveraging data from multiple channels and touchpoints.
+
+<table>
+  <tr>
+    <td><img src="https://github.com/CatelloTheDataProjectManager/Streaming-Data/raw/main/tracker.png" width="400"><br><center>Tracker used to detect actions</center></td>
+    <td><img src="https://github.com/CatelloTheDataProjectManager/Streaming-Data/raw/main/Segment_actions_tracked.png" width="400"><br><center>Actions tracked using the tracker</center></td>
+  </tr>
+</table>
+
 
 ## Amplitude or Google Analytics
 I have experience using Amplitude, a product analytics platform that allows businesses to track and understand user behavior on their websites and mobile apps. Amplitude provides advanced analytics tools to help businesses identify trends, understand user journeys, and optimize the user experience.
